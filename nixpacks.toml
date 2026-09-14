@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["python311", "nodejs_20"]
+
+[start]
+cmd = "python \"attached_assets/hosting_bot_fixed_(2)_1786606050646.py\""
